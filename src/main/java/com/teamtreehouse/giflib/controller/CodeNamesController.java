@@ -14,7 +14,7 @@ import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 
-//@CrossOrigin(origins = "https://codenames-react.herokuapp.com")
+@CrossOrigin(origins = "https://codenames-react.herokuapp.com")
 @RestController
 public class CodeNamesController {
 
